@@ -1,3 +1,3 @@
 # rsschool-cv
 ---------------
-### [CV](VitaliGrusza.github.io/rsschool-cv/cv)
+### [CV](https://VitaliGrusza.github.io/rsschool-cv/cv)
